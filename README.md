@@ -21,9 +21,9 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+```yaml id="l6h6yb"
 Name: Shivam Ravidas
-B.Tech CSE - Artificial Intelligence & Machine Learning
+Education: B.Tech CSE - Artificial Intelligence & Machine Learning
 
 Interests:
   - Machine Learning
@@ -189,7 +189,7 @@ Productivity • Habit Tracking • Task Management
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamravidas2-ui&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamravidas2-ui&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
 
 </p>
 
@@ -199,17 +199,7 @@ Productivity • Habit Tracking • Task Management
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamravidas2-ui&hide_border=true&radius=10" alt="GitHub Activity Graph"/>
-
-</p>
-
----
-
-# 🟩 Contribution Graph
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/409ba5/shivamravidas2-ui" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamravidas2-ui&hide_border=true&radius=10" alt="GitHub Contribution Activity"/>
 
 </p>
 
@@ -237,7 +227,7 @@ Productivity • Habit Tracking • Task Management
 
 # 🎯 Currently Exploring
 
-```text
+```text id="5v3m3m"
 Python
    ↓
 Machine Learning
