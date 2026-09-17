@@ -21,12 +21,11 @@
 
 ## 👨‍💻 About Me
 
-```yaml id="h8t9wq"
+```yaml
 Name: Shivam Ravidas
-Education: B.Tech CSE - Artificial Intelligence & Machine Learning
+B.Tech CSE - Artificial Intelligence & Machine Learning
 
 Interests:
-  - Artificial Intelligence
   - Machine Learning
   - Data Structures & Algorithms
   - Software Development
@@ -68,7 +67,7 @@ UPI fraud, scam messages, suspicious links and other digital threats.
 
 <p>
 <b>Tech Stack:</b><br>
-React.js • Vite • JavaScript • Google Authentication • Fast2SMS • Capacitor • AI/ML
+React.js • Vite • JavaScript • Google Authentication • Supabase • Fast2SMS • Capacitor • AI/ML
 </p>
 
 <p>
@@ -81,6 +80,7 @@ React.js • Vite • JavaScript • Google Authentication • Fast2SMS • Capa
 <li>🔗 Suspicious URL detection</li>
 <li>🧠 AI/ML-based threat detection</li>
 <li>🔐 Google Authentication</li>
+<li>🗄️ Supabase integration</li>
 <li>📲 Android application support</li>
 </ul>
 
@@ -152,7 +152,7 @@ Productivity • Habit Tracking • Task Management
 ### 🌐 Technologies I've Worked With
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,react,vite" />
+<img src="https://skillicons.dev/icons?i=javascript,react,vite,supabase" />
 </p>
 
 <p align="left">
@@ -247,7 +247,7 @@ Productivity • Habit Tracking • Task Management
 
 # 🎯 Currently Exploring
 
-```text id="5cq3s0"
+```text
 Python
    ↓
 Machine Learning
@@ -311,7 +311,7 @@ Deep Learning
 
 <p align="center">
 
-<i>"Code. Learn. Build. Repeat. 🚀"</i>
+<i>"Learn something. Build something. 🚀"</i>
 
 </p>
 
