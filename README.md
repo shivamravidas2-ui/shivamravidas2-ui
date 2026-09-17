@@ -173,18 +173,6 @@ Productivity • Habit Tracking • Task Management
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamravidas2-ui&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamravidas2-ui&layout=compact&langs_count=8&hide_border=true&border_radius=10" alt="Top Languages"/>
-
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
