@@ -215,16 +215,6 @@ Productivity • Habit Tracking • Task Management
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivamravidas2-ui&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-
-</p>
-
----
-
 # 📌 GitHub Profile
 
 <p align="center">
