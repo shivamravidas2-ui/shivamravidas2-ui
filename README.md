@@ -21,54 +21,70 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+```yaml id="h8t9wq"
 Name: Shivam Ravidas
 Education: B.Tech CSE - Artificial Intelligence & Machine Learning
 
 Interests:
   - Artificial Intelligence
   - Machine Learning
-  - Full Stack Development
   - Data Structures & Algorithms
   - Software Development
 
 Currently Learning:
-  - Machine Learning
   - Python
+  - Machine Learning
   - Scikit-learn
 
 Currently Working On:
-  - RPG - Habit Tracker / To-Do Application
+  - AI/ML Projects
+  - TrustShield
+  - RPG Habit Tracker
 ```
 
-* 🔭 Currently working on **RPG — A Habit Tracker / To-Do List**
+* 🔭 Currently working on **AI/ML and software projects**
 * 🌱 Currently learning **Machine Learning Basics**
 * 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 💻 Exploring **Full Stack Development**
 * 🧠 Practicing **Data Structures & Algorithms**
-* 🚀 Building projects to improve my development and problem-solving skills
+* ☕ Improving my **Python & Java** skills
+* 🚀 Building projects while learning new technologies
 * 📫 Reach me at **[shivamravidas2@gmail.com](mailto:shivamravidas2@gmail.com)**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🎮 RPG — Habit Tracker</h3>
+<h3>🛡️ TrustShield — UPI Fraud & Scam Detector</h3>
 
 <p>
-A productivity application designed to help users manage their daily tasks and habits.
+A security-focused platform designed to detect and help protect users from
+UPI fraud, scam messages, suspicious links and other digital threats.
 </p>
 
 <p>
-<b>Focus:</b> Productivity • Habit Tracking • Task Management
+<b>Tech Stack:</b><br>
+React.js • Vite • JavaScript • Google Authentication • Fast2SMS • Capacitor • AI/ML
 </p>
 
-<a href="https://github.com/shivamravidas2-ui/rpg">
+<p>
+<b>Highlights:</b>
+</p>
+
+<ul>
+<li>💳 UPI fraud & payment threat detection</li>
+<li>📱 SMS & scam message analysis</li>
+<li>🔗 Suspicious URL detection</li>
+<li>🧠 AI/ML-based threat detection</li>
+<li>🔐 Google Authentication</li>
+<li>📲 Android application support</li>
+</ul>
+
+<a href="https://github.com/shivamravidas2-ui/trust_shield">
 <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -76,18 +92,20 @@ A productivity application designed to help users manage their daily tasks and h
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI/ML Projects</h3>
+<h3>🎮 RPG — Habit Tracker</h3>
 
 <p>
-Currently exploring and building projects around Artificial Intelligence, Machine Learning and software development.
+A productivity application designed to help users manage their daily tasks,
+habits and personal goals.
 </p>
 
 <p>
-<b>Focus:</b> Python • ML • Scikit-learn
+<b>Focus:</b><br>
+Productivity • Habit Tracking • Task Management
 </p>
 
-<a href="https://github.com/shivamravidas2-ui?tab=repositories">
-<img src="https://img.shields.io/badge/View%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/shivamravidas2-ui/rpg">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -102,7 +120,7 @@ Currently exploring and building projects around Artificial Intelligence, Machin
 ### 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 </p>
 
 ### 🤖 AI / ML
@@ -131,16 +149,26 @@ Currently exploring and building projects around Artificial Intelligence, Machin
 
 </p>
 
-### 🌐 Development
+### 🌐 Technologies I've Worked With
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=javascript,react,vite" />
+</p>
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Google%20Authentication-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Fast2SMS-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
+
 </p>
 
 ### 🔧 Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -219,7 +247,7 @@ Currently exploring and building projects around Artificial Intelligence, Machin
 
 # 🎯 Currently Exploring
 
-```text
+```text id="5cq3s0"
 Python
    ↓
 Machine Learning
@@ -238,10 +266,14 @@ Deep Learning
 <p align="center">
 
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-🧠-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full%20Stack-💻-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DSA-⚡-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Development-🚀-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-⚡-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Java-☕-orange?style=for-the-badge"/>
 
 </p>
 
