@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shivam Ravidas</h1>
 
 <h3 align="center">
-  B.Tech CSE (AI & ML) Student • ML Enthusiast • Developer
+  🎓 B.Tech CSE (AI & ML) Student • 🧠 ML Enthusiast • 💻 Full-Stack Developer
 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivamravidas2-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<p align="center">
   <a href="https://github.com/shivamravidas2-ui">
-    <img src="https://img.shields.io/github/followers/shivamravidas2-ui?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/shivamravidas2-ui?label=Followers&style=for-the-badge&logo=github&color=0e75b6" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/shivamravidas2-ui?tab=repositories">
-    <img src="https://img.shields.io/github/stars/shivamravidas2-ui?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/>
+    <img src="https://img.shields.io/github/stars/shivamravidas2-ui?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=0e75b6" alt="GitHub Stars"/>
   </a>
 </p>
 
@@ -21,33 +18,40 @@
 
 ## 👨‍💻 About Me
 
-```yaml
-Name: Shivam Ravidas
-Education: B.Tech CSE - Artificial Intelligence & Machine Learning
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Who Am I?</h3>
+      <p>I'm a Computer Science student specializing in <b>Artificial Intelligence & Machine Learning</b>. I bridge the gap between intelligent backend models and responsive web interfaces.</p>
+      <ul>
+        <li>🔭 <b>Active Focus:</b> Building <a href="https://github.com/shivamravidas2-ui/trust_shield"><b>TrustShield</b></a> — an AI-driven UPI fraud & scam prevention ecosystem.</li>
+        <li>🌱 <b>Current Deep Dive:</b> Mastering <b>Scikit-Learn, Deep Learning architectures</b>, and advanced <b>Data Structures & Algorithms</b>.</li>
+        <li>☕ <b>Core Languages:</b> Daily driving <b>Python</b> & <b>Java</b> for problem-solving and model development.</li>
+        <li>💡 <b>Philosophy:</b> <i>"Build intelligent solutions that solve real-world security and productivity bottlenecks."</i></li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>⚡ Quick Facts</h3>
+      <p><b>🎓 Degree:</b> B.Tech CSE (AI & ML)</p>
+      <p><b>🎯 Core Stack:</b> Python • Scikit-Learn • React • Supabase</p>
+      <p><b>🎮 Side Quest:</b> Building an RPG-style Habit Tracker</p>
+      <p><b>📫 Reach Me:</b> <a href="mailto:shivamravidas2@gmail.com">shivamravidas2@gmail.com</a></p>
+    </td>
+  </tr>
+</table>
 
-Interests:
-  - Machine Learning
-  - Data Structures & Algorithms
-  - Software Development
+---
 
-Currently Learning:
-  - Python
-  - Machine Learning
-  - Scikit-learn
+## 📊 Contribution Activity & GitHub Stats
 
-Currently Working On:
-  - AI/ML Projects
-  - TrustShield
-  - RPG Habit Tracker
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamravidas2-ui&theme=tokyonight&hide_border=true&area=true" alt="Shivam's Contribution Graph" width="100%" />
+</p>
 
-* 🔭 Currently working on **AI/ML and software projects**
-* 🌱 Currently learning **Machine Learning Basics**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🧠 Practicing **Data Structures & Algorithms**
-* ☕ Improving my **Python & Java** skills
-* 🚀 Building projects while learning new technologies
-* 📫 Reach me at **[shivamravidas2@gmail.com](mailto:shivamravidas2@gmail.com)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamravidas2-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamravidas2-ui&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -62,12 +66,12 @@ Currently Working On:
 
 <p>
 A security-focused platform designed to detect and help protect users from
-UPI fraud, scam messages, suspicious links and other digital threats.
+UPI fraud, scam messages, suspicious links, and digital threats.
 </p>
 
 <p>
 <b>Tech Stack:</b><br>
-React.js • Vite • JavaScript • Google Authentication • Supabase • Fast2SMS • Capacitor • AI/ML
+React.js • Vite • JavaScript • Google Auth • Supabase • Fast2SMS • Capacitor • AI/ML
 </p>
 
 <p>
@@ -78,10 +82,9 @@ React.js • Vite • JavaScript • Google Authentication • Supabase • Fast
 <li>💳 UPI fraud & payment threat detection</li>
 <li>📱 SMS & scam message analysis</li>
 <li>🔗 Suspicious URL detection</li>
-<li>🧠 AI/ML-based threat detection</li>
-<li>🔐 Google Authentication</li>
-<li>🗄️ Supabase integration</li>
-<li>📲 Android application support</li>
+<li>🧠 AI/ML-based threat classification</li>
+<li>🔐 Google Authentication & Supabase Backend</li>
+<li>📲 Android application support via Capacitor</li>
 </ul>
 
 <a href="https://github.com/shivamravidas2-ui/trust_shield">
@@ -95,13 +98,12 @@ React.js • Vite • JavaScript • Google Authentication • Supabase • Fast
 <h3>🎮 RPG — Habit Tracker</h3>
 
 <p>
-A productivity application designed to help users manage their daily tasks,
-habits and personal goals.
+A gamified productivity application designed to help users turn daily tasks, habits, and personal goals into RPG-style progression.
 </p>
 
 <p>
 <b>Focus:</b><br>
-Productivity • Habit Tracking • Task Management
+Productivity • Gamification • Habit Tracking • Task Management
 </p>
 
 <a href="https://github.com/shivamravidas2-ui/rpg">
@@ -115,168 +117,59 @@ Productivity • Habit Tracking • Task Management
 
 ---
 
-# 🛠️ Languages & Tools
+# 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
-
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" />
 </p>
 
-### 🤖 AI / ML
-
+### 🤖 AI / Machine Learning & Data Science
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+</p>
+<p align="left">
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/></a>
 </p>
 
+### 🌐 Web Development & Services
 <p align="left">
-
-<a href="https://numpy.org/">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</a>
-
-<a href="https://pandas.pydata.org/">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</a>
-
-<a href="https://scikit-learn.org/">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</a>
-
-<a href="https://matplotlib.org/">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</a>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,supabase" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Authentication-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fast2SMS-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
 </p>
 
-### 🌐 Technologies I've Worked With
-
+### 🔧 Tools & Workflow
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,react,vite,supabase" />
-</p>
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Google%20Authentication-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Fast2SMS-FF6B35?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white"/>
-
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamravidas2-ui&hide_border=true&border_radius=10" alt="GitHub Contribution Streak"/>
-
-</p>
-
----
-
-# 📌 GitHub Profile
-
-<p align="center">
-
-<a href="https://github.com/shivamravidas2-ui?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shivamravidas2-ui?tab=stars">
-<img src="https://img.shields.io/badge/Stars-View%20All-yellow?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shivamravidas2-ui?tab=followers">
-<img src="https://img.shields.io/badge/Followers-View%20All-0e75b6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🎯 Currently Exploring
+# 🎯 Learning Roadmap
 
 ```text
-Python
-   ↓
-Machine Learning
-   ↓
-NumPy • Pandas • Matplotlib
-   ↓
-Scikit-learn
-   ↓
-Deep Learning
-```
-
----
-
-# 📚 My Interests
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-🧠-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-⚡-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-🐍-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Java-☕-orange?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:shivamravidas2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shivamravidas2-ui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivam-ravidas-2615b8295">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/25e118b09_shivam">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/shivamravidas">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💭 Developer Quote
-
-<p align="center">
-
-<i>"Learn something. Build something. 🚀"</i>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-
-</p>
+  ┌─────────────────────────┐
+  │         Python          │
+  └────────────┬────────────┘
+               │
+               ▼
+  ┌─────────────────────────┐
+  │   NumPy • Pandas • ML   │
+  └────────────┬────────────┘
+               │
+               ▼
+  ┌─────────────────────────┐
+  │      Scikit-Learn       │
+  └────────────┬────────────┘
+               │
+               ▼
+  ┌─────────────────────────┐
+  │  Deep Learning & PyTorch│
+  └─────────────────────────┘
